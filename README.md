@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0074-search-a-2d-matrix) |
+| [0219-contains-duplicate-ii](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0074-search-a-2d-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
