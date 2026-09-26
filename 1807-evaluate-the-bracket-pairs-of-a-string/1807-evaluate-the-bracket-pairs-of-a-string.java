@@ -12,19 +12,14 @@ class Solution {
         int i = 0;
 
         while (i < s.length()) {
-
             if (s.charAt(i) == '(') {
-
                 i++; // skip '('
-
                 StringBuilder key = new StringBuilder();
-
                 // Read key until ')'
                 while (s.charAt(i) != ')') {
                     key.append(s.charAt(i));
                     i++;
                 }
-
                 // Get value
                 if (map.containsKey(key.toString())) {
                     ans.append(map.get(key.toString()));
@@ -39,7 +34,6 @@ class Solution {
                 i++;
             }
         }
-
         return ans.toString();
     }
 }
