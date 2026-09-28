@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0344-reverse-string](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0344-reverse-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udaypachpute/Leetcode_Connection/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/udaypachpute/Leetcode_Connection/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Stack
