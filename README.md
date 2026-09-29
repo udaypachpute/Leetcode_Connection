@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0078-subsets) |
 | [0189-rotate-array](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0219-contains-duplicate-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/udaypachpute/Leetcode_Connection/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0189-rotate-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
