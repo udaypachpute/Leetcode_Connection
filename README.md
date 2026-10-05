@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0219-contains-duplicate-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/udaypachpute/Leetcode_Connection/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Two Pointers
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
