@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0301-remove-invalid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
