@@ -93,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0191-number-of-1-bits) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
