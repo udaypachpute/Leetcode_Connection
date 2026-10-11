@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0268-missing-number) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/udaypachpute/Leetcode_Connection/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/udaypachpute/Leetcode_Connection/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/udaypachpute/Leetcode_Connection/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
