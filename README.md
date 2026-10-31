@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/udaypachpute/Leetcode_Connection/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/udaypachpute/Leetcode_Connection/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/udaypachpute/Leetcode_Connection/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3665-twisted-mirror-path-count](https://github.com/udaypachpute/Leetcode_Connection/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/udaypachpute/Leetcode_Connection/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/udaypachpute/Leetcode_Connection/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0074-search-a-2d-matrix) |
+| [3665-twisted-mirror-path-count](https://github.com/udaypachpute/Leetcode_Connection/tree/master/3665-twisted-mirror-path-count) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0053-maximum-subarray) |
+| [3665-twisted-mirror-path-count](https://github.com/udaypachpute/Leetcode_Connection/tree/master/3665-twisted-mirror-path-count) |
 ## Graph Theory
 |  |
 | ------- |
