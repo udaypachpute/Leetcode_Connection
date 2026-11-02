@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/udaypachpute/Leetcode_Connection/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/udaypachpute/Leetcode_Connection/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/udaypachpute/Leetcode_Connection/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/udaypachpute/Leetcode_Connection/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Backtracking
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/udaypachpute/Leetcode_Connection/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/udaypachpute/Leetcode_Connection/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/udaypachpute/Leetcode_Connection/tree/master/3727-maximum-alternating-sum-of-squares) |
