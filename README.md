@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/udaypachpute/Leetcode_Connection/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/udaypachpute/Leetcode_Connection/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3665-twisted-mirror-path-count](https://github.com/udaypachpute/Leetcode_Connection/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/udaypachpute/Leetcode_Connection/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/udaypachpute/Leetcode_Connection/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/udaypachpute/Leetcode_Connection/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/udaypachpute/Leetcode_Connection/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0053-maximum-subarray) |
 | [3665-twisted-mirror-path-count](https://github.com/udaypachpute/Leetcode_Connection/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/udaypachpute/Leetcode_Connection/tree/master/3693-climbing-stairs-ii) |
 ## Graph Theory
 |  |
 | ------- |
