@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0020-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/udaypachpute/Leetcode_Connection/tree/master/1021-remove-outermost-parentheses) |
@@ -76,11 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/udaypachpute/Leetcode_Connection/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udaypachpute/Leetcode_Connection/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/udaypachpute/Leetcode_Connection/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/udaypachpute/Leetcode_Connection/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Math
