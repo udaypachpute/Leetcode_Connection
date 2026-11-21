@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0040-combination-sum-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/udaypachpute/Leetcode_Connection/tree/master/0268-missing-number) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/udaypachpute/Leetcode_Connection/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
